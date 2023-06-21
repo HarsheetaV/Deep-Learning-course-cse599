@@ -5,11 +5,10 @@ Deep Learning Course Assignment Submission:
 This repository contains my assignment submission for the Deep Learning course. It includes models built from scratch in various domains such as Computer Vision, Machine Learning Classifiers, and Natural Language Processing.
 Structure of the Repository
 
-      The repository is organized into the following sections:
+The repository is organized into the following sections:
 
 (A) Computer Vision from scratch:
-
-       This section focuses on building computer vision models from scratch. It includes the following components:
+This section focuses on building computer vision models from scratch. It includes the following components:
 
 Batch Normalization: Implementation of batch normalization techniques.
 
@@ -22,8 +21,7 @@ Network Visualization: Techniques for visualizing and interpreting neural networ
 PyTorch: Utilizing PyTorch library for building computer vision models.
 
 (B) Machine Learning Classifiers:
-      
-       This section covers various machine learning classifiers implemented from scratch. It includes the following classifiers:
+This section covers various machine learning classifiers implemented from scratch. It includes the following classifiers:
 
 Features Extraction Classifier: A classifier that performs feature extraction for data classification.
 
@@ -36,8 +34,7 @@ SVM Classifier: Implementation of the Support Vector Machine (SVM) classifier al
 Two Layer Net Classifier: A two-layer neural network classifier implemented without using external libraries.
 
 (C) Natural Language Processing from scratch:
-
-      This section focuses on building natural language processing models from scratch. It includes the following components:
+This section focuses on building natural language processing models from scratch. It includes the following components:
 
 Generative Adversarial Networks: Implementation of Generative Adversarial Networks (GANs) for text generation.
 
